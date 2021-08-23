@@ -52,7 +52,9 @@ Gonna edit this later...
   <a href="https://neutralino.js.org/docs/" target="_blank"> <img src="Neutralinojs.png" alt="Neutralinojs" width="40" height="40"/> </a> 
   
   <p>Platforms</p>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/" target="_blank"> <img src="Windows" alt="Windows" width="40" height="40"/> </a> 
   </div>
 
 <!-- Stats -->
