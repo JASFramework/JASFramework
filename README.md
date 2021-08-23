@@ -2,9 +2,9 @@
 
 Gonna edit this later...
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=JASFramework&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=JASFramework&count_private=true&show_icons=true&include_all_commits=true&theme=gotham)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JASFramework&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JASFramework&hide=TeX&layout=compact&theme=gotham)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JASFramework.JASFramework)
 
