@@ -49,6 +49,7 @@ Gonna edit this later...
   <p>Framework</p>
   
   <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
+  <a href="https://neutralino.js.org/docs/" target="_blank"> <img src="Neutralinojs.png" alt="Neutralinojs" width="40" height="40"/> </a> 
   
   <p>Platforms</p>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
