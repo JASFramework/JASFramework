@@ -56,12 +56,17 @@ Gonna edit this later...
   </div>
 
 
-
+<div>
+<!--
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasframework&show_icons=true&locale=en&layout=compact&theme=gotham" alt="jasframework" />
 </p>
-
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasframework&show_icons=true&locale=en&theme=gotham" alt="jasframework" />
 </p>
-
+-->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasframework&show_icons=true&locale=en&layout=compact&theme=gotham" alt="jasframework" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasframework&show_icons=true&locale=en&theme=gotham" alt="jasframework" />
+  
+</div
