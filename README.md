@@ -22,8 +22,7 @@ Gonna edit this later...
 
 <h3 align="left">The Languages & Tools I Use:</h3>
 
-<div align=""> 
-  
+<div align="background-color: red;"> 
   <p>Frontend Development</p>
   
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -55,18 +54,9 @@ Gonna edit this later...
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   </div>
 
-
+<!-- Stats -->
 <div>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasframework&show_icons=true&locale=en&layout=compact&theme=gotham" alt="jasframework" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasframework&show_icons=true&locale=en&theme=gotham" alt="jasframework" />
-</p>
-
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasframework&show_icons=true&locale=en&layout=compact&theme=gotham" alt="jasframework" />
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasframework&show_icons=true&locale=en&theme=gotham" alt="jasframework" />
-  
 </div
